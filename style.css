@@ -15,3 +15,18 @@
     top: 0;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}

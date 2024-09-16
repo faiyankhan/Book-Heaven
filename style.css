@@ -58,3 +58,12 @@
     border-radius: 5px;
     margin-right: 8px;
 }
+
+.search-bar button {
+    background-color: #f39c12;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}

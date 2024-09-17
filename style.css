@@ -66,3 +66,14 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.Shop-img{
+    margin: 50px;
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.container{
+    display: flex;
+}

@@ -65,48 +65,48 @@
     cursor: pointer;
 }
 
-.Shop-img{
+.Shop-img {
     margin: 50px;
     height: 400px;
     width: 500px;
     border-radius: 20px;
 }
 
-.container{
+.container {
     display: flex;
 }
 
-.shop-heading-1{
+.shop-heading-1 {
     margin-top: 120px;
     margin-left: 60px;
     font-size: 30px;
-    color:#00e68a;
+    color: #00e68a;
 }
 
-.shop-heading-2{
+.shop-heading-2 {
     margin-top: 20px;
     margin-left: 60px;
     font-size: 40px;
     margin-bottom: 20px;
 }
 
-.shop-heading-3{
+.shop-heading-3 {
     margin-left: 60px;
     font-size: 20px;
 }
 
-.shop-heading-4{
+.shop-heading-4 {
     margin-left: 60px;
     margin-top: 20px;
 }
 
-.btn-1{
+.btn-1 {
     margin-left: 60px;
     margin-top: 20px;
     padding: 10px;
     width: 130px;
     border: none;
-    border-radius: 18px ;
+    border-radius: 18px;
     background-color: #33ffad;
 }
 
@@ -119,6 +119,11 @@
     flex-wrap: wrap;
     gap: 40px;
     padding: 40px;
+}
+
+.cards-description {
+    text-align: center;
+    color: #00e68a;
 }
 
 .cards {

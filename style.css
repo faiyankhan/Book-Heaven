@@ -184,3 +184,10 @@
     font-size: 13px;
     width: 240px;
 }
+
+.cards button:hover{
+    border: none;
+    transition: 0.5s;
+    color: #fff;
+    background-color: black;
+}

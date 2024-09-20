@@ -126,6 +126,12 @@
     color: #00e68a;
 }
 
+.cards-description-1{
+    text-align: center;
+    margin-top: 8px;
+    color: black;
+}
+
 .cards {
     background-color: #fff;
     border-radius: 10px;

@@ -14,3 +14,8 @@ Welcome to Book Heaven! This is an online bookstore website where users can expl
 - Frontend: HTML, CSS, JavaScript
 - Backend: [Specify your backend technology, e.g., Node.js, PHP, etc.]
 - Version Control: Git
+
+## Usage
+1. Navigate to the website's homepage.
+2. Browse through the book collection or use the search bar to find specific books.
+3. Add books to your cart and proceed to checkout

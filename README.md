@@ -1,4 +1,4 @@
-# Book Heaven
+# Book Heaven 📚
 
 Welcome to Book Heaven! This is an online bookstore website where users can explore, search, and purchase a wide variety of books across different genres.
 
@@ -18,4 +18,8 @@ Welcome to Book Heaven! This is an online bookstore website where users can expl
 ## Usage
 1. Navigate to the website's homepage.
 2. Browse through the book collection or use the search bar to find specific books.
-3. Add books to your cart and proceed to checkout
+3. Add books to your cart and proceed to checkout.
+
+## Contact
+For any inquiries, please contact Book Heaven at <br> Gmail ID : bookheaven9960@gmail.com
+

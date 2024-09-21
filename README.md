@@ -9,3 +9,8 @@ Welcome to Book Heaven! This is an online bookstore website where users can expl
 - User Authentication: Users can sign up, log in, and manage their accounts.
 - Shopping Cart: Users can add books to their cart and proceed to checkout.
 - Responsive Design: Fully responsive across devices (desktop, tablet, mobile).
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: [Specify your backend technology, e.g., Node.js, PHP, etc.]
+- Version Control: Git

@@ -191,3 +191,13 @@
     color: #fff;
     background-color: black;
 }
+
+/* Media Queries for Responsiveness */
+
+/* Tablet Screens (Max Width 768px) */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }

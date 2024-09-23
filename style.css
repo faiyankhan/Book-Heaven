@@ -251,3 +251,40 @@
         text-align: center;
         width: 100%;
     }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+
+    .search-bar input {
+        width: 150px;
+    }
+
+    .Shop-img {
+        width: 90%;
+        height: auto;
+    }
+
+    .container-2 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cards {
+        width: 90%;
+    }
+
+    .btn-1, .cards button {
+        width: 100%;
+    }
+
+    .shop-heading-2 {
+        font-size: 30px;
+    }
+
+    .shop-heading-1,
+    .shop-heading-3,
+    .shop-heading-4 {
+        font-size: 16px;
+    }
+}

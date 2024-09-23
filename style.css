@@ -235,3 +235,19 @@
         flex-direction: column;
     }
 }
+
+/* Mobile Screens (Max Width 480px) */
+@media (max-width: 480px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .logo {
+        font-size: 20px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
